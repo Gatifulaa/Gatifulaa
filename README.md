@@ -19,6 +19,17 @@ Cansado dos gerenciadores comuns, estou desenvolvendo o **Una**, o coração da 
 - **Gerenciador:** `una -i [pacote]` — Simples, rápido e atômico.
 - **Extensão Própria:** Arquivos **`.uic`**, um formato de pacote otimizado para compatibilidade e isolamento.
 
+### 👀 Quer dar uma olhada?
+
+<details>
+  <summary>Veja mais ></summary>
+  <div>
+    <a href="https://uincos.vercel.app">
+      <img src="https://rawcdn.githack.com/Gatifulaa/Files-Host/00abd2873bb0f530262ce05390743d032fef419d/UincOSLogo(2)(2).svg" alt="UincOS" height="100">
+    </a>
+  </div>
+</details>
+
 ---
 
 <details>
